@@ -25,7 +25,7 @@ index.html # Main HTML file
 ├──  .nojekyll # Disables Jekyll on GitHub Pages
 │   ├── README.md # Project documentation
 
----
+```
 ---
 ## 📸 Preview
 
