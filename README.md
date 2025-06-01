@@ -40,10 +40,9 @@ _Add a screenshot of your site here (optional)._
 You can clone this repository and open the `index.html` directly in your browser:
 
 ```bash
-```
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System.git
 cd your-repo-name
-
+```
 
 Deployment (GitHub Pages)
 To deploy:
@@ -56,11 +55,13 @@ Set the source to main branch and / (root).
 
 Add a .nojekyll file in the root to prevent GitHub from processing the files with Jekyll.
 
-Done! 🎉
-
+Done!🎉
+---
+---
  License
 This project is open-source and available under the MIT License.
-
+---
+---
 🙌 Acknowledgments
 Tailwind CSS CDN
 
