@@ -56,11 +56,11 @@ Set the source to main branch and / (root).
 Add a .nojekyll file in the root to prevent GitHub from processing the files with Jekyll.
 
 Done!🎉
----
+
 ---
  License
 This project is open-source and available under the MIT License.
----
+
 ---
 🙌 Acknowledgments
 Tailwind CSS CDN
@@ -68,10 +68,6 @@ Tailwind CSS CDN
 Vue.js CDN
 
 GitHub Pages
-
-yaml
-Copy
-Edit
 
 ---
 
