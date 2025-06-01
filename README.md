@@ -40,6 +40,7 @@ _Add a screenshot of your site here (optional)._
 You can clone this repository and open the `index.html` directly in your browser:
 
 ```bash
+```
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
