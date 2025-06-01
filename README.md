@@ -20,9 +20,11 @@ This is a simple single-page web application built using **HTML**, **Tailwind CS
 
 ## 📁 Project Structure
 
+---
+
 ├── index.html # Main HTML file
-├── .nojekyll # Disables Jekyll on GitHub Pages
-└── README.md # Project documentation
+   ├── .nojekyll # Disables Jekyll on GitHub Pages
+   └── README.md # Project documentation
 
 ---
 
