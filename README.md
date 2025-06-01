@@ -30,23 +30,18 @@ index.html # Main HTML file
 
 ### 🔹 Dashboard
 ![Dashboard](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/main/Screenshots/Dashboard.png)
-[View on GitHub](https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/Dashboard.png)
 
 ### 🔹 Employee Registration
 ![Employee Registration](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/main/Screenshots/Employee%20Registration.png)
-[View on GitHub](https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/Employee%20Registration.png)
 
 ### 🔹 Department Allocation
 ![Department Allocation](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/main/Screenshots/Department%20Allocation.png)
-[View on GitHub](https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/Department%20Allocation.png)
 
 ### 🔹 Role-Based Permission
 ![Role-Based Permission](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/main/Screenshots/Role%20Based%20Permission.png)
-[View on GitHub](https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/Role%20Based%20Permission.png)
 
 ### 🔹 HR Database Sync
 ![HR Database Sync](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/main/Screenshots/HR%20Database%20sync.png)
-[View on GitHub](https://github.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/HR%20Database%20sync.png)
 
 ---
 
