@@ -29,7 +29,8 @@ index.html # Main HTML file
 ---
 ## 📸 Preview
 
-![screenshot](screenshot.png)  
+![Dashboard](https://raw.githubusercontent.com/yRaviKanthh/employee-Onboarding-Role-Mapping-System/blob/main/Screenshots/Dashboard.png)
+
 _Add a screenshot of your site here (optional)._
 
 ---
