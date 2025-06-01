@@ -58,7 +58,7 @@ Add a .nojekyll file in the root to prevent GitHub from processing the files wit
 Done!🎉
 
 ---
- License
+ 📜 License
 This project is open-source and available under the MIT License.
 
 ---
