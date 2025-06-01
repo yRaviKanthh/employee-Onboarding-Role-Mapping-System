@@ -63,6 +63,7 @@ This project is open-source and available under the MIT License.
 
 ---
 🙌 Acknowledgments
+
 Tailwind CSS CDN
 
 Vue.js CDN
