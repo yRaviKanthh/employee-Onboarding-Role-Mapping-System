@@ -28,6 +28,7 @@ index.html # Main HTML file
 
 ---
 
+---
 ## 📸 Preview
 
 ![screenshot](screenshot.png)  
